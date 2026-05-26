@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachepender",
+        "uuid": 4599495,
+        "checksum": "q3nqmz"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
